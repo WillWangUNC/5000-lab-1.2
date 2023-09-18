@@ -1,0 +1,80 @@
+---
+title: "simple_quarto_website"
+bibliography: references.bib
+---
+
+# First Paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Second paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas. Blandit aliquam etiam erat velit scelerisque in. Tristique risus nec feugiat in fermentum posuere. Et magnis dis parturient montes nascetur ridiculus. Augue interdum velit euismod in pellentesque. Ultrices neque ornare aenean euismod. Venenatis urna cursus eget nunc scelerisque viverra mauris. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Id velit ut tortor pretium viverra suspendisse. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Odio tempor orci dapibus ultrices in iaculis nunc sed. Pellentesque nec nam aliquam sem et tortor consequat id. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Sodales ut etiam sit amet. Tincidunt lobortis feugiat vivamus at augue eget. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Nunc sed blandit libero volutpat sed cras ornare.
+
+### Third Paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci. A scelerisque purus semper eget duis at. Enim diam vulputate ut pharetra. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Viverra adipiscing at in tellus integer. Consectetur a erat nam at. Amet cursus sit amet dictum sit amet justo donec enim. Tristique senectus et netus et malesuada fames ac turpis.
+
+:::: {.columns}
+::: {.column width="50%"}
+### Documents
+
+You can write HTML, Word and PDF documents
+:::
+
+::: {.column width="50%"}
+### Presentations
+
+You can write PowerPoint, Beamer and revealjs presentations
+
+:::
+::::
+
+::: {layout-ncol=2}
+### List One
+
+- Item A
+- Item B
+- Item C
+
+### List Two
+
+- Item X
+- Item Y
+- Item Z
+:::
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+inline math: $E = mc^{2}$
+
+display math:
+
+$$E = mc^{2}$$
+
+Here is a footnote reference.[^1] 
+
+[^1]: Here is the footnote.
+
+> R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+[![Caption](GU1.jpg)](https://quarto.org)
+[![Caption](GU2.jpg)](https://quarto.org)
+
+{{< video https://www.youtube.com/watch?v=Gayw2N5L23Q >}}
+
+```{mermaid}
+%%| fig-cap: "A Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+## BibTeX references in Quarto
+[@zhou2021machine] 

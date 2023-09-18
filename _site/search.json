@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "My Slideshow",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed\n[@zhou2021machine]"
+  },
+  {
+    "objectID": "slides/slides.html#breakfast",
+    "href": "slides/slides.html#breakfast",
+    "title": "My Slideshow",
+    "section": "Breakfast",
+    "text": "Breakfast\n\nEat eggs\nDrink coffee \n\n\n\n\nFigure 1: GU"
+  },
+  {
+    "objectID": "slides/slides.html#dinner",
+    "href": "slides/slides.html#dinner",
+    "title": "My Slideshow",
+    "section": "Dinner",
+    "text": "Dinner\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "My Slideshow",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n# First Paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "about.html#second-paragraph",
+    "href": "about.html#second-paragraph",
+    "title": "About",
+    "section": "Second paragraph",
+    "text": "Second paragraph\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas. Blandit aliquam etiam erat velit scelerisque in. Tristique risus nec feugiat in fermentum posuere.\n\nThird Paragraph\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci. A scelerisque purus semper eget duis at.\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas. Blandit aliquam etiam erat velit scelerisque in. Tristique risus nec feugiat in fermentum posuere. Et magnis dis parturient montes nascetur ridiculus. Augue interdum velit euismod in pellentesque. Ultrices neque ornare aenean euismod. Venenatis urna cursus eget nunc scelerisque viverra mauris. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Id velit ut tortor pretium viverra suspendisse. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Odio tempor orci dapibus ultrices in iaculis nunc sed. Pellentesque nec nam aliquam sem et tortor consequat id. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Sodales ut etiam sit amet. Tincidunt lobortis feugiat vivamus at augue eget. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Nunc sed blandit libero volutpat sed cras ornare.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci. A scelerisque purus semper eget duis at. Enim diam vulputate ut pharetra. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Viverra adipiscing at in tellus integer. Consectetur a erat nam at. Amet cursus sit amet dictum sit amet justo donec enim. Tristique senectus et netus et malesuada fames ac turpis.\n\n\n\n\n\nYou can write HTML, Word and PDF documents\n\n\n\n\nYou can write PowerPoint, Beamer and revealjs presentations\n\n\n\n\n\n\n\n\nItem A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\ninline math: \\(E = mc^{2}\\)\ndisplay math:\n\\[E = mc^{2}\\]\nHere is a footnote reference.1\n\nR is a collaborative project with many contributors. Type ‘contributors()’ for more information and ‘citation()’ on how to cite R or R packages in publications.\n\n \n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\nA Mermaid diagram\n\n\n\n\n\n\n(Zhou 2021)"
+  },
+  {
+    "objectID": "index.html#second-paragraph",
+    "href": "index.html#second-paragraph",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas. Blandit aliquam etiam erat velit scelerisque in. Tristique risus nec feugiat in fermentum posuere. Et magnis dis parturient montes nascetur ridiculus. Augue interdum velit euismod in pellentesque. Ultrices neque ornare aenean euismod. Venenatis urna cursus eget nunc scelerisque viverra mauris. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Id velit ut tortor pretium viverra suspendisse. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Odio tempor orci dapibus ultrices in iaculis nunc sed. Pellentesque nec nam aliquam sem et tortor consequat id. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Sodales ut etiam sit amet. Tincidunt lobortis feugiat vivamus at augue eget. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Nunc sed blandit libero volutpat sed cras ornare.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris a diam maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci. A scelerisque purus semper eget duis at. Enim diam vulputate ut pharetra. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Viverra adipiscing at in tellus integer. Consectetur a erat nam at. Amet cursus sit amet dictum sit amet justo donec enim. Tristique senectus et netus et malesuada fames ac turpis.\n\n\n\n\n\nYou can write HTML, Word and PDF documents\n\n\n\n\nYou can write PowerPoint, Beamer and revealjs presentations\n\n\n\n\n\n\n\n\nItem A\nItem B\nItem C\n\n\n\n\n\nItem X\nItem Y\nItem Z\n\n\n\n\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\ninline math: \\(E = mc^{2}\\)\ndisplay math:\n\\[E = mc^{2}\\]\nHere is a footnote reference.1\n\nR is a collaborative project with many contributors. Type ‘contributors()’ for more information and ‘citation()’ on how to cite R or R packages in publications.\n\n \n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#bibtex-references-in-quarto",
+    "href": "index.html#bibtex-references-in-quarto",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "(Zhou 2021)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the footnote.↩︎"
+  }
+]
